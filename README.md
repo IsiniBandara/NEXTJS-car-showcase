@@ -1,4 +1,4 @@
-<img width="282" alt="Screenshot 2023-07-03 at 09 32 42" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/06442e80-25e0-498d-836a-45bf064e0734"><img width="1440" alt="Screenshot 2023-07-02 at 23 39 26" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/1662ea34-41fd-4e8d-b207-d6a323b484e2"><img width="1440" alt="Screenshot 2023-07-02 at 23 38 45" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/73e611f0-aa98-4794-adda-1d30bc48e5e4">This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
@@ -38,9 +38,11 @@ Discover Api - https://rapidapi.com/hub
 <img width="1440" alt="Screenshot 2023-07-02 at 23 38 45" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/b3198b4a-70a8-4a1a-b0ac-d404cdebc3b2">
 <img width="1440" alt="Screenshot 2023-07-02 at 23 39 26" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/434ce4c8-d445-4426-854a-0e3273aa3add">
 <img width="1440" alt="Screenshot 2023-07-02 at 23 39 49" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/c7be86c1-ca99-41ef-9021-cf57a94053cc">
+<img width="1440" alt="Screenshot 2023-07-03 at 10 21 59" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/7bd63b4d-0b8e-4dbb-b7c1-e5f43cbdeb28">
 <img width="282" alt="Screenshot 2023-07-03 at 09 32 23" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/55a4b8f5-60b7-49cc-9dfe-3c73e422d87d">
 <img width="282" alt="Screenshot 2023-07-03 at 09 32 35" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/b2215998-1e86-4146-add8-3cfe43480f51">
 <img width="282" alt="Screenshot 2023-07-03 at 09 32 42" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/bdc375d0-aa65-4326-aa2a-49df5130d525">
+<img width="282" alt="Screenshot 2023-07-03 at 10 23 38" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/9ca53453-4388-47b2-a9b4-6dcbdbdd477a">
 
 
 
