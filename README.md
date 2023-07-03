@@ -31,9 +31,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-##API
+## API
 Discover Api - https://rapidapi.com/hub 
-##Development with Responsive
+
+## Development with Responsive
 <img width="1440" alt="Screenshot 2023-07-02 at 23 38 45" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/b3198b4a-70a8-4a1a-b0ac-d404cdebc3b2">
 <img width="1440" alt="Screenshot 2023-07-02 at 23 39 26" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/434ce4c8-d445-4426-854a-0e3273aa3add">
 <img width="1440" alt="Screenshot 2023-07-02 at 23 39 49" src="https://github.com/IsiniBandara/NEXTJS-car-showcase/assets/67850663/c7be86c1-ca99-41ef-9021-cf57a94053cc">
